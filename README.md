@@ -145,6 +145,15 @@ SCORE: 60/100  (6/10 checks passed)
 
 Both runs are real, unedited tool output — not illustrative/mocked examples.
 
+## Benchmark
+
+[`BENCHMARK.md`](BENCHMARK.md) runs this same scan against six real,
+currently-live consulting/agency homepages (plus EliteSEO Consulting's own
+site for reference) — real scores, dated, with the exact reproduction
+command for each. It's a sanity check on the tool, not a ranking of anyone's
+SEO skill; see that file for the disclaimer on what a homepage scan can and
+can't tell you.
+
 ## Tests
 
 ```bash
